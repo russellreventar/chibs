@@ -32,3 +32,25 @@ html,body,#root {
 .App-intro {
   font-size: large;
 }
+
+.social {
+  margin-top: 40px;
+}
+
+.social ul {
+  list-style: none;
+  padding: 0;
+}
+
+.social li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.social li:first-child {
+  margin-left: 0px;
+}
+
+.social-logo {
+  width: 36px;
+}
