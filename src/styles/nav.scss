@@ -1,0 +1,83 @@
+$nav-height: 60px;
+
+.header {
+
+  .line {
+    position: absolute;
+    top: 25px;
+    width: 100%;
+
+    .stripes {
+      height: 12px;
+      width: 100%;
+      background-size: contain;
+      background-image: url('./../img/stripe.svg');
+    }
+
+    .floral {
+      height: 12px;
+      width: 100%;
+      background-size: contain;
+      background-image: url('./../img/floral.svg');
+    }
+  }
+
+  &--big {
+    height: 50vh;
+  }
+
+  .logo-cont {
+    .logo {
+
+    }
+  }
+
+  nav {
+    height: $nav-height;
+
+    .row {
+      height: 100%;
+    }
+  }
+
+  .big-logo {
+    height: calc(100% - #{$nav-height});
+    
+    a {
+      position: sticky;
+      top: 10px;
+      img {
+        width: 150px;
+        margin-top: 60px;
+      }
+    }
+  }
+
+  .dot {
+    color: lightgrey;
+  }
+
+  .navbar-item {
+    margin-left: 10px;
+    font-family: 'Alegreya Sans SC';
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    &:first-child {
+      margin-left: 0px;
+      margin-right: 10px;
+    }
+
+    &:hover {
+      border-bottom: 3px solid $yellow;
+    }
+  }
+
+  .social {
+    margin-left: 15px;
+    width: 22px;
+    &:first-child {
+      margin-left: 0px;
+    }
+  }
+}
