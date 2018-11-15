@@ -1,12 +1,12 @@
 {
-  "main.css": "/static/css/main.57f9f614.chunk.css",
-  "main.js": "/static/js/main.5492c216.chunk.js",
-  "main.js.map": "/static/js/main.5492c216.chunk.js.map",
+  "main.css": "/static/css/main.49c2219b.chunk.css",
+  "main.js": "/static/js/main.5a5567cb.chunk.js",
+  "main.js.map": "/static/js/main.5a5567cb.chunk.js.map",
   "static/js/1.683812eb.chunk.js": "/static/js/1.683812eb.chunk.js",
   "static/js/1.683812eb.chunk.js.map": "/static/js/1.683812eb.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/app.scss": "/static/media/hero.2576e883.png",
+  "static/media/app.scss": "/static/media/ar-bold.91d8ff8a.otf",
   "static/media/logo.svg": "/static/media/logo.754b66a6.svg",
   "static/media/social-facebook.svg": "/static/media/social-facebook.5e5b85ae.svg",
   "static/media/motto.svg": "/static/media/motto.2ac2b05d.svg",
@@ -17,8 +17,8 @@
   "static/media/Menu5.jpg": "/static/media/Menu5.c07814c6.jpg",
   "static/media/Menu6.jpg": "/static/media/Menu6.73d3a4ae.jpg",
   "static/media/social-instagram.svg": "/static/media/social-instagram.bcb1bc7b.svg",
-  "static/css/main.57f9f614.chunk.css.map": "/static/css/main.57f9f614.chunk.css.map",
+  "static/css/main.49c2219b.chunk.css.map": "/static/css/main.49c2219b.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.217c61f101105cbbea2b030ab8a4530c.js": "/precache-manifest.217c61f101105cbbea2b030ab8a4530c.js",
+  "precache-manifest.969149208a4a44ef77bb1bb7e4811f0f.js": "/precache-manifest.969149208a4a44ef77bb1bb7e4811f0f.js",
   "service-worker.js": "/service-worker.js"
 }
