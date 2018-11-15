@@ -16,6 +16,7 @@ class App extends Component {
     super();
     this.hoursRef = React.createRef();
     this.menuRef = React.createRef();
+    this.contactRef = React.createRef();
   };
 
   onLinkClick = (link) => {
@@ -54,7 +55,7 @@ class App extends Component {
                   location="SM City Calamba"
                   address="3rd floor"
                   number="(049) - 530 - 3041"
-                  hours="8:00am - 10:00pm"
+                  hours="10:00am - 9:00pm"
                 />
               </div>
               <div className="col-sm-6">
@@ -63,7 +64,7 @@ class App extends Component {
                   location="SM City Lipa"
                   address="2nd floor"
                   number="(049) - 530 - 3041"
-                  hours="8:00am - 10:00pm"
+                  hours="10:00am - 9:00pm"
                 />
               </div>
             </div>
@@ -103,6 +104,19 @@ class App extends Component {
                 <img className="menu-page" src={m6}/>
               </div>
             </div>
+          </div>
+        </Section>
+        <Section
+          title="Contact Us"
+          description="Feel free to contact us for any additional information!"
+          className="contact"
+          outRef={this.contactRef}
+        >
+          <div>
+            <b>Email: </b>chibs.ph@gmail.com
+          </div>
+          <div>
+            <small style={{float: 'right'}}>Chibs @2018. All rights reserved.</small>
           </div>
         </Section>
       </div>

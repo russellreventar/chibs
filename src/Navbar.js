@@ -47,6 +47,10 @@ class Navbar extends React.Component {
               <a className="navbar-item" href="#menu" onClick={() => this.props.onLinkClick('menu')}>
                 Menu
               </a>
+              <span className="dot">•</span>
+              <a className="navbar-item" href="#contact" onClick={() => this.props.onLinkClick('contact')}>
+                Info
+              </a>
             </div>
             <div className="col-2 d-flex align-items-center justify-content-end">
               <a className="navbar-item" href="https://www.instagram.com/chibs_ph">
