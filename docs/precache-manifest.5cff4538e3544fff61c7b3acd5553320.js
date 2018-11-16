@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/Menu4.8fe110d2.jpg"
   },
   {
-    "revision": "5a5567cbda30afe0c419",
+    "revision": "722d707cb9ab2e8c8ac6",
     "url": "/static/css/main.49c2219b.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/Menu3.da72f335.jpg"
   },
   {
-    "revision": "5a5567cbda30afe0c419",
-    "url": "/static/js/main.5a5567cb.chunk.js"
+    "revision": "722d707cb9ab2e8c8ac6",
+    "url": "/static/js/main.722d707c.chunk.js"
   },
   {
     "revision": "c07814c6c9f0960b8482aedcf72207ec",
@@ -56,24 +56,24 @@ self.__precacheManifest = [
     "url": "/static/media/Menu6.73d3a4ae.jpg"
   },
   {
-    "revision": "31c5bc6fbf121b6beeef30e98e3472e8",
-    "url": "/static/media/floral.31c5bc6f.svg"
-  },
-  {
     "revision": "9fd8d970cbcee2822625c1785dbcea1b",
     "url": "/static/media/stripe.9fd8d970.svg"
+  },
+  {
+    "revision": "31c5bc6fbf121b6beeef30e98e3472e8",
+    "url": "/static/media/floral.31c5bc6f.svg"
   },
   {
     "revision": "1a3139b6068994c02ba938a8141160ce",
     "url": "/static/media/hero.1a3139b6.jpg"
   },
   {
-    "revision": "b1a30a98dbfe44ed95b63d2b88e38f48",
-    "url": "/static/media/lipa-card.b1a30a98.png"
-  },
-  {
     "revision": "7e9282767ffc7120723107eafaf4aa1e",
     "url": "/static/media/calamba-card.7e928276.png"
+  },
+  {
+    "revision": "b1a30a98dbfe44ed95b63d2b88e38f48",
+    "url": "/static/media/lipa-card.b1a30a98.png"
   },
   {
     "revision": "b5ed933057eaf1919dd79d81248cdbce",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/static/media/ar-bold.91d8ff8a.otf"
   },
   {
-    "revision": "76751f688641e55b31ff718fa94ee797",
+    "revision": "2bc90de45b7de04a4b33c60827503442",
     "url": "/index.html"
   }
 ];

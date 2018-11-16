@@ -53,10 +53,10 @@ class Navbar extends React.Component {
               </a>
             </div>
             <div className="col-2 d-flex align-items-center justify-content-end">
-              <a className="navbar-item" href="https://www.instagram.com/chibs_ph">
+              <a className="navbar-item" href="https://www.instagram.com/chibs.ph">
                 <img alt="instagram" className="social" src={ig} alt="instagram" />
               </a>
-              <a className="navbar-item" href="https://www.facebook.com/chibsph">
+              <a className="navbar-item" href="https://www.facebook.com/chibs.ph">
                 <img alt="facebook" className="social" src={fbook} alt="facbook" />
               </a>
               {/* <a className="navbar-item" href="https://twitter.com/chibs_ph">
